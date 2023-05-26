@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ###hot to check
 
-#### Deplyomenet
+#### Deplyomment
+
+how to deploy
